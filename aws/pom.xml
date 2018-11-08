@@ -69,9 +69,5 @@
           <version>2.8.2</version>
         </plugin>
       </plugins>
-<<<<<<< HEAD
       </build>
-=======
-  </build>
->>>>>>> d89c7aba633e97bedd30980d8383d0e5dd81dcc1
 </project>
